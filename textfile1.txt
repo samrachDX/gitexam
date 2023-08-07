@@ -1,4 +1,2 @@
-
-
 line3file11
 line4file1
